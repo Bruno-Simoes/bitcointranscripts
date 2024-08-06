@@ -28,12 +28,12 @@ Speaker 0: 00:00:00
 
 This goes to like this idea of like really only using the blockchain to settle disagreements.
 Like as long as everyone agrees with all we have to say to the blockchain, it's like, yeah, you don't really need to know what the rules were.
+
+John Newbery: 00:00:17
 Hey Jonas, good to be back.
 
-Speaker 1: 00:00:19
-
+Adam Jonas: 00:00:19
 So while you were out being the Bitcoin ambassador that we depend on you to be, I was here stuck in the cold talking to Tim and Peter and I thought it was a good conversation.
-Yeah.
 I don't think I let you down too much.
 
 Speaker 0: 00:00:32
@@ -44,7 +44,7 @@ I hear that you went over a lot of stuff.
 Speaker 1: 00:00:37
 
 We did.
-We covered updates about Frost and Roast, Music 2.
+We covered updates about Frost and Rust, Musig2.
 We talked about ideas that are a little further out in terms of batch verification, signature aggregation, interactive full aggregation, cross-input signature aggregation.
 
 Speaker 0: 00:00:54
